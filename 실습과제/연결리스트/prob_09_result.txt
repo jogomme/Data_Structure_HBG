@@ -1,0 +1,428 @@
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : a
+--------------------------
+Selected playlist menu : a
+Playlist : (null)
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : n
+--------------------------
+Selected playlist menu : n
+Playlist name : playlist1
+Playlist : <-[*playlist1*]->
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : n
+--------------------------
+Selected playlist menu : n
+Playlist name : playlist2
+Playlist : <-[playlist1]-> <-[*playlist2*]->
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : n
+--------------------------
+Selected playlist menu : n
+Playlist name : playlist3
+Playlist : <-[playlist1]-> <-[playlist2]-> <-[*playlist3*]->
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : <
+--------------------------
+Selected playlist menu : <
+Playlist : <-[playlist1]-> <-[*playlist2*]-> <-[playlist3]->
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : <
+--------------------------
+Selected playlist menu : <
+Playlist : <-[*playlist1*]-> <-[playlist2]-> <-[playlist3]->
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : >
+--------------------------
+Selected playlist menu : >
+Playlist : <-[playlist1]-> <-[*playlist2*]-> <-[playlist3]->
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : d
+--------------------------
+Selected playlist menu : d
+Playlist : <-[playlist1]-> <-[*playlist3*]->
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : n
+--------------------------
+Selected playlist menu : n
+Playlist name : playlist4
+Playlist : <-[playlist1]-> <-[playlist3]-> <-[*playlist4*]->
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : <
+--------------------------
+Selected playlist menu : <
+Playlist : <-[playlist1]-> <-[*playlist3*]-> <-[playlist4]->
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : s
+--------------------------
+Selected playlist menu : s
+
+
+---- Song Menu ----
+ a : print all songs
+ c : print current song
+ n : add new song in playlist
+ d : delete current song
+ > : next song
+ < : previous song
+ b : quit
+Select Menu : a
+Selected song menu : a
+Song list : (null)
+
+
+---- Song Menu ----
+ a : print all songs
+ c : print current song
+ n : add new song in playlist
+ d : delete current song
+ > : next song
+ < : previous song
+ b : quit
+Select Menu : n
+Selected song menu : n
+Song name : song1
+Song list : <-[*song1*]->
+
+
+---- Song Menu ----
+ a : print all songs
+ c : print current song
+ n : add new song in playlist
+ d : delete current song
+ > : next song
+ < : previous song
+ b : quit
+Select Menu : n
+Selected song menu : n
+Song name : song2
+Song list : <-[song1]-> <-[*song2*]->
+
+
+---- Song Menu ----
+ a : print all songs
+ c : print current song
+ n : add new song in playlist
+ d : delete current song
+ > : next song
+ < : previous song
+ b : quit
+Select Menu : n
+Selected song menu : n
+Song name : song3
+Song list : <-[song1]-> <-[song2]-> <-[*song3*]->
+
+
+---- Song Menu ----
+ a : print all songs
+ c : print current song
+ n : add new song in playlist
+ d : delete current song
+ > : next song
+ < : previous song
+ b : quit
+Select Menu : <
+Selected song menu : <
+Song list : <-[song1]-> <-[*song2*]-> <-[song3]->
+
+
+---- Song Menu ----
+ a : print all songs
+ c : print current song
+ n : add new song in playlist
+ d : delete current song
+ > : next song
+ < : previous song
+ b : quit
+Select Menu : <
+Selected song menu : <
+Song list : <-[*song1*]-> <-[song2]-> <-[song3]->
+
+
+---- Song Menu ----
+ a : print all songs
+ c : print current song
+ n : add new song in playlist
+ d : delete current song
+ > : next song
+ < : previous song
+ b : quit
+Select Menu : >
+Selected song menu : >
+Song list : <-[song1]-> <-[*song2*]-> <-[song3]->
+
+
+---- Song Menu ----
+ a : print all songs
+ c : print current song
+ n : add new song in playlist
+ d : delete current song
+ > : next song
+ < : previous song
+ b : quit
+Select Menu : d
+Selected song menu : d
+Song list : <-[song1]-> <-[*song3*]->
+
+
+---- Song Menu ----
+ a : print all songs
+ c : print current song
+ n : add new song in playlist
+ d : delete current song
+ > : next song
+ < : previous song
+ b : quit
+Select Menu : n
+Selected song menu : n
+Song name : song4
+Song list : <-[song1]-> <-[song3]-> <-[*song4*]->
+
+
+---- Song Menu ----
+ a : print all songs
+ c : print current song
+ n : add new song in playlist
+ d : delete current song
+ > : next song
+ < : previous song
+ b : quit
+Select Menu : b
+Selected song menu : b
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : a
+--------------------------
+Selected playlist menu : a
+Playlist : <-[playlist1]-> <-[*playlist3*]-> <-[playlist4]->
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : <
+--------------------------
+Selected playlist menu : <
+Playlist : <-[*playlist1*]-> <-[playlist3]-> <-[playlist4]->
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : >
+--------------------------
+Selected playlist menu : >
+Playlist : <-[playlist1]-> <-[*playlist3*]-> <-[playlist4]->
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : s
+--------------------------
+Selected playlist menu : s
+
+
+---- Song Menu ----
+ a : print all songs
+ c : print current song
+ n : add new song in playlist
+ d : delete current song
+ > : next song
+ < : previous song
+ b : quit
+Select Menu : a
+Selected song menu : a
+Song list : <-[*song1*]-> <-[song3]-> <-[song4]->
+
+
+---- Song Menu ----
+ a : print all songs
+ c : print current song
+ n : add new song in playlist
+ d : delete current song
+ > : next song
+ < : previous song
+ b : quit
+Select Menu : >
+Selected song menu : >
+Song list : <-[song1]-> <-[*song3*]-> <-[song4]->
+
+
+---- Song Menu ----
+ a : print all songs
+ c : print current song
+ n : add new song in playlist
+ d : delete current song
+ > : next song
+ < : previous song
+ b : quit
+Select Menu : b
+Selected song menu : b
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : a
+--------------------------
+Selected playlist menu : a
+Playlist : <-[playlist1]-> <-[*playlist3*]-> <-[playlist4]->
+
+
+---- Playlist Menu ----
+ a : print all playlist
+ c : print current playlist
+ n : new playlist
+ d : delete playlist
+ > : next playlist
+ < : previous playlist
+ s : song menu
+ q : quit
+Select Menu : q
+--------------------------
+Selected playlist menu : q
+

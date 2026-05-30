@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748AE611-F553-4E00-94B2-B3CC0C404B9B}|Proj_09_HBG\\Proj_09_HBG.vcxproj|C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8\\Proj_09_HBG\\Proj_09_HBG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{748AE611-F553-4E00-94B2-B3CC0C404B9B}|Proj_09_HBG\\Proj_09_HBG.vcxproj|solutionrelative:Proj_09_HBG\\Proj_09_HBG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886A0479-9FB5-4527-8BDA-3A7CF251A4E9}|\uC2E4\uC2B5\uACFC\uC81C\\\uC2E4\uC2B5\uACFC\uC81C.vcxproj|C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8\\\uC2E4\uC2B5\uACFC\uC81C\\Proj_08_HBG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{886A0479-9FB5-4527-8BDA-3A7CF251A4E9}|\uC2E4\uC2B5\uACFC\uC81C\\\uC2E4\uC2B5\uACFC\uC81C.vcxproj|solutionrelative:\uC2E4\uC2B5\uACFC\uC81C\\Proj_08_HBG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9DE64-3143-466D-B359-B90861E8B2B8}|Proj_10_HBG\\Proj_10_HBG.vcxproj|C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8\\Proj_10_HBG\\Proj_10_HBG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2E9DE64-3143-466D-B359-B90861E8B2B8}|Proj_10_HBG\\Proj_10_HBG.vcxproj|solutionrelative:Proj_10_HBG\\Proj_10_HBG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proj_08_HBG.cpp",
+              "DocumentMoniker": "C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8\\\uC2E4\uC2B5\uACFC\uC81C\\Proj_08_HBG.cpp",
+              "RelativeDocumentMoniker": "\uC2E4\uC2B5\uACFC\uC81C\\Proj_08_HBG.cpp",
+              "ToolTip": "C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8\\\uC2E4\uC2B5\uACFC\uC81C\\Proj_08_HBG.cpp*",
+              "RelativeToolTip": "\uC2E4\uC2B5\uACFC\uC81C\\Proj_08_HBG.cpp*",
+              "ViewState": "AgIAAEABAAAAAAAAAAAAAH0BAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T12:44:50.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proj_09_HBG.cpp",
+              "DocumentMoniker": "C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8\\Proj_09_HBG\\Proj_09_HBG.cpp",
+              "RelativeDocumentMoniker": "Proj_09_HBG\\Proj_09_HBG.cpp",
+              "ToolTip": "C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8\\Proj_09_HBG\\Proj_09_HBG.cpp",
+              "RelativeToolTip": "Proj_09_HBG\\Proj_09_HBG.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T12:44:45.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proj_10_HBG.cpp",
+              "DocumentMoniker": "C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8\\Proj_10_HBG\\Proj_10_HBG.cpp",
+              "RelativeDocumentMoniker": "Proj_10_HBG\\Proj_10_HBG.cpp",
+              "ToolTip": "C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uC5F0\uACB0\uB9AC\uC2A4\uD2B8\\Proj_10_HBG\\Proj_10_HBG.cpp",
+              "RelativeToolTip": "Proj_10_HBG\\Proj_10_HBG.cpp",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAALIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T07:44:56.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

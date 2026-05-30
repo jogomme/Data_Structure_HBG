@@ -1,0 +1,6 @@
+﻿  Proj_16_HBG.cpp
+C:\Users\beomg\source\repos\2026년 2학기 자료구조\실습과제\그래프\Proj__16_HBG\Proj_16_HBG.cpp(241,12): warning C4101: 'v' :참조되지 않은 지역 변수입니다.
+C:\Users\beomg\source\repos\2026년 2학기 자료구조\실습과제\그래프\Proj__16_HBG\Proj_16_HBG.cpp(241,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\beomg\source\repos\2026년 2학기 자료구조\실습과제\그래프\Proj__16_HBG\Proj_16_HBG.cpp(302,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\beomg\source\repos\2026년 2학기 자료구조\실습과제\그래프\Proj__16_HBG\Proj_16_HBG.cpp(304,11): warning C4101: 'list' :참조되지 않은 지역 변수입니다.
+  Proj__16_HBG.vcxproj -> C:\Users\beomg\source\repos\2026년 2학기 자료구조\실습과제\그래프\x64\Debug\Proj__16_HBG.exe

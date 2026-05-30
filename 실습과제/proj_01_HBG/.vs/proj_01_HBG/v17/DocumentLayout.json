@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\proj_01_HBG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{371A11E4-C045-404C-A18B-366E9817FC53}|proj_01_HBG\\proj_01_HBG.vcxproj|C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\proj_01_HBG\\proj_01_HBG\\proj_01_HBG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371A11E4-C045-404C-A18B-366E9817FC53}|proj_01_HBG\\proj_01_HBG.vcxproj|solutionrelative:proj_01_HBG\\proj_01_HBG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proj_01_HBG.cpp",
+              "DocumentMoniker": "C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\proj_01_HBG\\proj_01_HBG\\proj_01_HBG.cpp",
+              "RelativeDocumentMoniker": "proj_01_HBG\\proj_01_HBG.cpp",
+              "ToolTip": "C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\proj_01_HBG\\proj_01_HBG\\proj_01_HBG.cpp",
+              "RelativeToolTip": "proj_01_HBG\\proj_01_HBG.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAGgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T07:10:01.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
