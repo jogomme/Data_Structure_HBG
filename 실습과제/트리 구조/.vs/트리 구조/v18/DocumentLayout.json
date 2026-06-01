@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,6 +29,10 @@
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Proj_12__HBG.cpp",
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "Proj_12_HBG\\Proj_12__HBG.cpp",
               "ToolTip": "C:\\Users\\beomg\\OneDrive\\\uBB38\uC11C\\Git_Hub\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\2026\uB144 1\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uD2B8\uB9AC \uAD6C\uC870\\Proj_12_HBG\\Proj_12__HBG.cpp",
               "RelativeToolTip": "Proj_12_HBG\\Proj_12__HBG.cpp",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAswJgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAswJEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-27T09:23:35.103Z",
               "EditorCaption": ""
