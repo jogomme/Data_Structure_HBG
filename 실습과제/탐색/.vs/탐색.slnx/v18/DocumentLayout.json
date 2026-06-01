@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uD0D0\uC0C9\\",
+  "WorkspaceRootPath": "C:\\Users\\\uD64D\uBC94\uAE30\\Documents\\GitHub\\2026-1-\\\uC2E4\uC2B5\uACFC\uC81C\\\uD0D0\uC0C9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D228B4B-580C-45EB-A3C5-0F3CA0F23379}|Proj_19_HBG\\Proj_19_HBG.vcxproj|C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uD0D0\uC0C9\\Proj_19_HBG\\Proj_19_HBG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7D228B4B-580C-45EB-A3C5-0F3CA0F23379}|Proj_19_HBG\\Proj_19_HBG.vcxproj|C:\\Users\\\uD64D\uBC94\uAE30\\Documents\\GitHub\\2026-1-\\\uC2E4\uC2B5\uACFC\uC81C\\\uD0D0\uC0C9\\Proj_19_HBG\\Proj_19_HBG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7D228B4B-580C-45EB-A3C5-0F3CA0F23379}|Proj_19_HBG\\Proj_19_HBG.vcxproj|solutionrelative:Proj_19_HBG\\Proj_19_HBG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,21 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Proj_19_HBG.cpp",
-              "DocumentMoniker": "C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uD0D0\uC0C9\\Proj_19_HBG\\Proj_19_HBG.cpp",
+              "DocumentMoniker": "C:\\Users\\\uD64D\uBC94\uAE30\\Documents\\GitHub\\2026-1-\\\uC2E4\uC2B5\uACFC\uC81C\\\uD0D0\uC0C9\\Proj_19_HBG\\Proj_19_HBG.cpp",
               "RelativeDocumentMoniker": "Proj_19_HBG\\Proj_19_HBG.cpp",
-              "ToolTip": "C:\\Users\\beomg\\source\\repos\\2026\uB144 2\uD559\uAE30 \uC790\uB8CC\uAD6C\uC870\\\uC2E4\uC2B5\uACFC\uC81C\\\uD0D0\uC0C9\\Proj_19_HBG\\Proj_19_HBG.cpp",
+              "ToolTip": "C:\\Users\\\uD64D\uBC94\uAE30\\Documents\\GitHub\\2026-1-\\\uC2E4\uC2B5\uACFC\uC81C\\\uD0D0\uC0C9\\Proj_19_HBG\\Proj_19_HBG.cpp",
               "RelativeToolTip": "Proj_19_HBG\\Proj_19_HBG.cpp",
-              "ViewState": "AgIAAFYBAAAAAAAAAAAUwGQBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAUwFoBAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-27T08:36:26.595Z",
               "EditorCaption": ""
