@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="우선순위큐/우선순위큐.vcxproj" Id="e575171a-5c56-415b-ac55-f0c9d3853689" />
   <Project Path="이진 탐색 트리/이진 탐색 트리.vcxproj" Id="afe59967-bc07-49ed-b29e-d9a654777e02" />
   <Project Path="트리/트리.vcxproj" Id="229cd9bf-5dd8-4796-ab12-01e35223c655" />
 </Solution>
