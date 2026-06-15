@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="이진 탐색 트리/이진 탐색 트리.vcxproj" />
-  <Project Path="트리/트리.vcxproj" />
+  <Project Path="이진 탐색 트리/이진 탐색 트리.vcxproj" Id="afe59967-bc07-49ed-b29e-d9a654777e02" />
+  <Project Path="트리/트리.vcxproj" Id="229cd9bf-5dd8-4796-ab12-01e35223c655" />
 </Solution>
